@@ -6,9 +6,9 @@
 
 # 💫 About Me :
 - 🎓 Graduated in Computer Science from [HITEC University](https://www.hitecuni.edu.pk/)
-- 🕋 A Firm Believer.
 - 🖥️ I’m currently Working as Android/IOS & Web developer in [Cafe de Tech]()
 - 🌱 Learning more about [Flutter](https://flutter.dev/)
+- 🕋 A Firm Believer.
 - 💪 <b>Trying</b> my best to stay fit.
 - 💬 Ask me anything about Flutter.
 - 📫 How to reach me: Check social links below or E-mail at <b>thecreativezee@gmail.com</b>
