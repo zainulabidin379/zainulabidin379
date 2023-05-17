@@ -11,7 +11,7 @@
 - 🕋 A Firm Believer.
 - 💪 <b>Trying</b> my best to stay fit.
 - 💬 Ask me anything about Flutter.
-- 📫 How to reach me: Check social links below or E-mail at <b>thecreativezee@gmail.com</b>
+- 📫 Check social links below or E-mail at <b>thecreativezee@gmail.com</b>
 
 <br>
 
