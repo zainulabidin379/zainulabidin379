@@ -6,17 +6,16 @@
 
 # 💫 About Me :
 - 🎓 Graduated in Computer Science from [HITEC University](https://www.hitecuni.edu.pk/)
-- 🖥️ I’m currently Working as Android/IOS & Web developer in [Cafe de Tech]()
+- 🖥️ I’m currently Working as Android/IOS & Web developer in [Cafe de Tech](https://cafedetech.com/)
 - 🌱 Learning more about [Flutter](https://flutter.dev/)
 - 🕋 A Firm Believer.
-- 💪 <b>Trying</b> my best to stay fit.
 - 💬 Ask me anything about Flutter.
 - 📫 Check social links below or E-mail at <b>thecreativezee@gmail.com</b>
 
 <br>
 
 ## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zayni_379) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/the.creative.zee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zain-ul-abidin-782b2219a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zain-ul-abidin-782b2219a)
 
 
 ## 💻 Tech Stack
