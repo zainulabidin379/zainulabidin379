@@ -2,15 +2,15 @@
 
 <br>
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="code.gif" width="500" height="375" />
 
 # 💫 About Me :
 - 🎓 Graduated in Computer Science from [HITEC University](https://www.hitecuni.edu.pk/)
-- 🖥️ I’m currently Working as Android/IOS & Web developer in [Cafe de Tech](https://cafedetech.com/)
+- 🖥️ I’m currently working as Android/IOS & Web developer<br>in [Cafe de Tech](https://cafedetech.com/)
 - 🌱 Learning more about [Flutter](https://flutter.dev/)
 - 🕋 A Firm Believer.
 - 💬 Ask me anything about Flutter.
-- 📫 Check social links below or E-mail at <b>thecreativezee@gmail.com</b>
+- 📫 Check social links below or<br>E-mail at <b>thecreativezee@gmail.com</b>
 
 <br>
 
