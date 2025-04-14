@@ -8,7 +8,6 @@
 - 🎓 Graduated in Computer Science from [HITEC University](https://www.hitecuni.edu.pk/)
 - 🖥️ I’m currently working as Android/IOS &<br>Web developer in [Cafe de Tech](https://cafedetech.com/)
 - 🌱 Learning more about [Flutter](https://flutter.dev/)
-- 🕋 A Firm Believer.
 - 💬 Ask me anything about Flutter.
 - 📫 Check social links below or<br>E-mail at <b>thecreativezee@gmail.com</b>
 
