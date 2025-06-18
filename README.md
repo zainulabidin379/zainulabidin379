@@ -2,11 +2,9 @@
 
 <br>
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="375" />
-
 # 💫 About Me :
 - 🎓 Graduated in Computer Science from [HITEC University](https://www.hitecuni.edu.pk/)
-- 🖥️ I’m currently working as Android/IOS &<br>Web developer in [Stash Technologies](https://stashtechnologies.com/)
+- 🖥️ I’m currently working as Android / IOS developer in [Stash Technologies](https://stashtechnologies.com/)
 - 🌱 Learning more about [Flutter](https://flutter.dev/)
 - 💬 Ask me anything about Flutter.
 - 📫 Check social links below or<br>E-mail at <b>thecreativezee@gmail.com</b>
@@ -25,9 +23,9 @@
 
 <div align="left">
  
-  <img src="https://github-readme-stats.vercel.app/api?username=zainulabidin379&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+   <img src="https://github-readme-stats.vercel.app/api?username=zainulabidin379&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
  
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zainulabidin379&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
+   <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainulabidin379&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />-->
  
  
 </div>
